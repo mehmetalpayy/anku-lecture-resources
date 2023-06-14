@@ -68,4 +68,4 @@ Contributions to this project are highly encouraged! If you have lecture notes f
 6. Open a pull request in this repository, describing the changes you have made.
 
 # Contact
-For any inquiries or questions, please feel free to contact with me at iletisimehmetalpay@gmail.com.
+For any inquiries or questions, please feel free to contact me at iletisimehmetalpay@gmail.com.
